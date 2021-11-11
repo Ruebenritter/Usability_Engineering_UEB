@@ -1,2 +1,2 @@
-# Usability_Engineering_UEB
-Test project from training session 1
+# Rezepte App
+App hilft neue Rezepte zu entdecken und Favoriten zu verwalten
